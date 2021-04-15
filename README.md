@@ -1,2 +1,2 @@
 # Java
- Basic learning of java
+ java programming from beginners to application coding
